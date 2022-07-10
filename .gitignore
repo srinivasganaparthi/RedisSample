@@ -1,0 +1,12 @@
+/.vs/ProjectEvaluation/*.v2
+/.vs/Publisher/DesignTimeBuild/*.v2
+/.vs/Publisher/FileContentIndex/*.vsidx
+/.vs/Publisher/FileContentIndex/*.lock
+/.vs/Publisher/v17/*.v1
+/.vs/Publisher/v17/*.suo
+/Publisher/bin
+/Publisher/obj
+/Subscriber/bin
+/Subscriber/obj
+/Subscriber2/bin
+/Subscriber2/obj
