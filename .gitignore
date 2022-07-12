@@ -1,12 +1,9 @@
-/.vs/ProjectEvaluation/*.v2
-/.vs/Publisher/DesignTimeBuild/*.v2
-/.vs/Publisher/FileContentIndex/*.vsidx
-/.vs/Publisher/FileContentIndex/*.lock
-/.vs/Publisher/v17/*.v1
-/.vs/Publisher/v17/*.suo
+/.vs
 /Publisher/bin
 /Publisher/obj
 /Subscriber/bin
 /Subscriber/obj
 /Subscriber2/bin
 /Subscriber2/obj
+/DistributedCaching/obj
+/DistributedCaching/bin/Debug/net6.0
